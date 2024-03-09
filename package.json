@@ -1,0 +1,31 @@
+{
+  "name": "laptop-msi-gf63",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "laptop msi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/laptop-msi-gf63.git"
+  },
+  "keywords": [
+    "Laptop",
+    "MSI",
+    "GF63"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/laptop-msi-gf63/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/laptop-msi-gf63#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
